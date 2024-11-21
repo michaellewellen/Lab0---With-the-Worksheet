@@ -311,7 +311,7 @@ class Program
             }
         }
         
-        if (distance <= 5 && hasLineOfSight)
+        if (distance <= 10 && hasLineOfSight)
         {
             if(playerRow < enemyX) newEnemyX --;
             else if (playerRow > enemyY) newEnemyX ++;

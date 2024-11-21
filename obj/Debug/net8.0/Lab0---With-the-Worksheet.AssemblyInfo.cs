@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab0---With-the-Worksheet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+584b0f1c95eda6bfd0992ffa77d311b2a02563f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+038759af0dae3a0029c46226b785e82786eaa8a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab0---With-the-Worksheet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab0---With-the-Worksheet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
